@@ -1,0 +1,10 @@
+{
+  "agent": "HyperspaceCore",
+  "hash": "SHA256-Gesamt-Hash",
+  "timestamp": "2025-10-03T06:04:00+02:00",
+  "manifest": "manifest/hyperspace.md",
+  "license": "manifest/license.md",
+  "device": "LAPTOP-V2D22PL8",
+  "role": "CLI-Werkzeugraum",
+  "chain_id": "hyperspace:2025:genesis"
+}
